@@ -1,2 +1,2 @@
 # testj
-Test
+Junior test project.
